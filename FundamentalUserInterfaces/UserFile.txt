@@ -1,0 +1,7 @@
+Tersimpan
+No Kartu = 655762571
+Jenis ATM = TARIK TUNAI
+Bank = BRI
+Nama Pemilik = AQMAL
+Nama File Gambar = IMG20220810130608.jpg
+
